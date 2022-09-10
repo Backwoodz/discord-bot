@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Backwoodz/discord-bot.git"
+  },
+  "author": "BCKWDZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Backwoodz/discord-bot/issues"
+  },
+  "homepage": "https://github.com/Backwoodz/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "nodemon": "^2.0.19"
+  }
+}

@@ -1,0 +1,8 @@
+#JetBrains
+.idea
+
+#Token
+.env
+
+# Dependency directories
+node_modules/
